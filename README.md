@@ -2,7 +2,7 @@
 
 # NTUT_SP — 安全程式 / Pwn Lab
 
-本 repo 是 **臺北科技大學 (NTUT) 安全程式** 課程的 Lab 練習專案，主要學習**基礎 x86-64 Linux binary exploitation (Pwn)**：從組語語言,stack frame 開始，一路做到 buffer overflow,shellcode,format string,ret2libc,ROP
+**臺北科技大學 (NTUT) 安全程式** 課程的 Lab 練習專案，主要學習**基礎 x86-64 Linux binary exploitation (Pwn)**：從組語語言,stack frame 開始，一路做到 buffer overflow,shellcode,format string,ret2libc,ROP
 
 每一題都同時提供：
 - `xxx.c`：題目原始碼
